@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>correct.png</file>
+    <file>file_v1.png</file>
+    <file>file_v2.png</file>
+    <file>folder_v1.png</file>
+    <file>folder_v2.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>title_show.png</file>
+  </qresource>
+</RCC>

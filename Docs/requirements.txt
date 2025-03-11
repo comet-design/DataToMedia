@@ -1,0 +1,10 @@
+click==8.1.8
+colorama==0.4.6
+ffmpeg-python==0.2.0
+future==1.0.0
+numpy==2.2.1
+opencv-python==4.10.0.84
+PyQt6==6.8.0
+PyQt6-Qt6==6.8.1
+PyQt6_sip==13.9.1
+tqdm==4.67.1
